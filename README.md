@@ -3,7 +3,7 @@
 Welcome to the **Spaceship Titanic** project repository! This repo contains a full end-to-end data-science workflow—from raw data through exploratory data analysis (EDA) to a production-ready predictive model—built around Kaggle’s fictional **Spaceship Titanic** passenger manifest.
 
 ---
-## 🗂 Repository Structure
+## Repository Structure
 
 ```text
 ├── data/                 # Raw and intermediate datasets (✗ *not committed*)
@@ -28,7 +28,7 @@ Welcome to the **Spaceship Titanic** project repository! This repo contains a fu
 ```
 
 ---
-## 📦 Setup & Installation
+## Setup & Installation
 
 ```bash
 # 1. Clone the repo
@@ -45,7 +45,7 @@ $ pip install -r requirements.txt
 > **Python 3.9+** is required. Major packages: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `shap`, and `jupyter`.
 
 ---
-## 🔬 Reproducing the Analysis
+## Reproducing the Analysis
 
 1. **Download data** from the Kaggle competition page and place `train.csv` & `test.csv` inside the `data/` directory.
 2. Launch Jupyter Lab:
@@ -70,9 +70,9 @@ $ pip install -r requirements.txt
 Detailed tables, ROC curves, SHAP plots, and statistical tests are available in the report (next section).
 
 ---
-## 📄 The Academic Report
+## The Academic Report
 
-A fully formatted **LaTeX report** (≈ 15 pages) is provided in `report/spaceship_report.tex`. It contains:
+A fully formatted **LaTeX report** (≈ 7 pages) is provided in `report/spaceship_report.tex`. It contains:
 
 * Abstract, Introduction, Related Work
 * Dataset description & cleaning methodology
@@ -90,17 +90,17 @@ $ latexmk -pdf spaceship_report.tex
 A ready-made PDF is also included: `spaceship_report.pdf`.
 
 ---
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! Please open an issue first to discuss proposed changes. Make sure to run the unit tests in `tests/` and apply the `pre-commit` hooks.
 
 ---
-## 📜 License
+## License
 
 This project is released under the **MIT License**. See `LICENSE` for details.
 
 ---
-## 🔖 Citation
+## Citation
 
 If you use this code or report, please cite it as:
 
