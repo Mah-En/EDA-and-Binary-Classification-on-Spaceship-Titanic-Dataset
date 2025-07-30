@@ -109,7 +109,5 @@ Entezari, M. (2024). Comprehensive Analysis and Predictive Modeling of the "Spac
 ```
 
 ---
-### Contact
-Mahla Entezari  ·  [Email](mailto:Mahla.Entezariii@gmail.com)
 
 Enjoy exploring the final frontier of Machine Learning! 🚀
